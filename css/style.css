@@ -1,0 +1,61 @@
+header {
+    display: inline-block;
+    margin-bottom: 20px;
+    width:100%;
+}
+
+header div {
+    float: left;
+    display: inline;
+}
+
+h2 {
+    font-family: monospace;
+}
+
+header .icons {
+    float: right;
+    
+}
+header img, h3 {
+    display: inline;
+} 
+
+section img {
+  margin: auto;
+  text-align: center;
+  margin-left: 18%;
+}
+
+section h1, p {
+    margin-left: 18%;
+}
+
+#paragraph {
+    display: block;
+    margin-left: 18%;
+    text-align: center;
+    margin-bottom: 15px;
+    
+   
+}
+
+#checklist {
+    background-image: url("/img/list-bg.png");
+    display: inline-block;
+    width: 50%;
+    text-align: left;
+    margin-left: 25%;
+    height: 150px;
+
+}
+
+#checklist div {
+    float: left;
+    display: block;
+}
+footer{
+   margin: auto;
+}
+
+
